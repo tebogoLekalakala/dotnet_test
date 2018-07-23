@@ -1,0 +1,17 @@
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\Building.exe.config
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\Building.exe
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\Building.pdb
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\devDept.Eyeshot.Control.Win.v11.Design.dll
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\devDept.Eyeshot.Control.Win.v11.dll
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\devDept.Geometry.v11.dll
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\devDept.Graphics.Win.v11.dll
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\devDept.Graphics.Shaders.v11.dll
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\devDept.Eyeshot.Control.Win.v11.xml
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\devDept.Geometry.v11.xml
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\bin\Debug\devDept.Graphics.Win.v11.xml
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.csprojResolveAssemblyReference.cache
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.Form1.resources
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.Properties.Resources.resources
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.csproj.GenerateResource.Cache
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.exe
+C:\Users\tebogo\Documents\New folder (2)\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.pdb
